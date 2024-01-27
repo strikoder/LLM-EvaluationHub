@@ -10,7 +10,7 @@ This repository, LLM-EvaluationHub, presents an enhanced dataset tailored for th
 While the original SafetyBench dataset was not annotated, our efforts to obtain annotations from the original authors were unsuccessful. Consequently, we undertook a manual annotation process, which yielded valuable insights and improved the dataset's utility for safety research.
 
 ### 2. Focus on Specific Categories
-We refined the dataset to concentrate on two critical categories: offensiveness, fairness and biases, ethics and morality. This refinement was strategically implemented by structuring the data around yes/no questions. This binary approach simplifies the evaluation of Large Language Models, making it more straightforward to assess performance, accuracy, and other key metrics. Furthermore, the yes/no format facilitates more efficient debugging and fine-tuning of models.
+We refined the dataset to concentrate on three critical categories: offensiveness, fairness and biases, ethics and morality. This refinement was strategically implemented by structuring the data around yes/no questions. This binary approach simplifies the evaluation of Large Language Models, making it more straightforward to assess performance, accuracy, and other key metrics. Furthermore, the yes/no format facilitates more efficient debugging and fine-tuning of models.
 
 
 ### 3. Cultural Relevance and Contextual Editing
