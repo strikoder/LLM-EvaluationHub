@@ -40,7 +40,7 @@ The research paper detailing the methodology and findings associated with this d
 ## Additional Resources
 The dataset is also available on the following platforms for broader accessibility and use:
 
-- [Kaggle](#) 
-- [Hugging Face](#)
+- [Kaggle](https://www.kaggle.com/datasets/strikoder/llm-evaluationhub) 
+- [Hugging Face](https://huggingface.co/datasets/strikoder/LLM-EvaluationHub)
 
 We invite the research and development community to leverage these resources in their work on Large Language Models.
