@@ -1,5 +1,7 @@
 # LLM-EvaluationHub: Enhanced Dataset for Large Language Model Assessment
 
+![Readme](https://github.com/Strikoder/LLM-EvaluationHub/blob/main/readme.png?raw=true)
+
 This repository, LLM-EvaluationHub, presents an enhanced dataset tailored for the evaluation and assessment of Large Language Models (LLMs). It builds upon the dataset originally provided by [SafetyBench](https://github.com/thu-coai/SafetyBench) (THU-COAI), incorporating significant modifications and additions to address specific research objectives. Below is a summary of the key differences and enhancements:
 
 ## Key Modifications
