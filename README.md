@@ -49,3 +49,13 @@ We invite the research and development community to leverage these resources in 
 
 ## Conclusion
 LLM-EvaluationHub provides a refined and nuanced tool for the assessment of LLMs. By focusing on specific content categories, removing culturally biased content, and refining prompts, this dataset is positioned as a key resource in the pursuit of developing safer and more responsible Large Language Models.
+
+You can add your email towards the end of the README, under a new section titled "Contact Information" or "Queries and Feedback". Here's how you could structure it:
+
+---
+
+## Contact Information
+
+For any queries or feedback regarding the LLM-EvaluationHub dataset, feel free to reach out via email: [Strikoder@gmail.com](mailto:Strikoder@gmail.com).
+
+
