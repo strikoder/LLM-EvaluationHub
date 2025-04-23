@@ -58,4 +58,8 @@ You can add your email towards the end of the README, under a new section titled
 
 For any queries or feedback regarding the LLM-EvaluationHub dataset, feel free to reach out via email: [Strikoder@gmail.com](mailto:Strikoder@gmail.com).
 
+## UPD:
+You can check my publication as well that was based on this dataset (needs a VPN in EU & USA)
+https://events.rudn.ru/event/236/contributions/1410/
+
 
